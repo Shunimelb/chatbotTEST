@@ -1,3 +1,9 @@
+.img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
 .home-page {
   background-color: #fcfbfc;
   display: flex;
@@ -8,15 +14,15 @@
 
 .home-page .div {
   background-color: #fcfbfc;
-  width: 100%;
-  height: 100%;
+  width: 1440px;
+  height: 4796px;
   position: relative;
 }
 
 .home-page .footer {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1439px;
+  height: 339px;
   top: 4457px;
   left: 0;
   object-fit: cover;
@@ -24,8 +30,8 @@
 
 .home-page .section-home {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1439px;
+  height: 705px;
   top: 3752px;
   left: 0;
   object-fit: cover;
@@ -33,8 +39,8 @@
 
 .home-page .img {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1439px;
+  height: 696px;
   top: 3056px;
   left: 1px;
   object-fit: cover;
@@ -42,8 +48,8 @@
 
 .home-page .section-home-2 {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1440px;
+  height: 1154px;
   top: 1902px;
   left: 0;
   object-fit: cover;
@@ -51,8 +57,8 @@
 
 .home-page .section-home-3 {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1440px;
+  height: 776px;
   top: 1126px;
   left: 0;
   object-fit: cover;
@@ -60,8 +66,8 @@
 
 .home-page .section-home-4 {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1439px;
+  height: 247px;
   top: 879px;
   left: 1px;
   object-fit: cover;
@@ -69,8 +75,8 @@
 
 .home-page .main-banner-home {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1440px;
+  height: 779px;
   top: 100px;
   left: 0;
   object-fit: cover;
@@ -78,8 +84,8 @@
 
 .home-page .header {
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 1439px;
+  height: 100px;
   top: 0;
   left: 1px;
   object-fit: cover;
